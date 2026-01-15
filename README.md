@@ -111,9 +111,9 @@ and performance optimization across React and React Native platforms.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samamahasan&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samamahasan&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samamahasan&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samamahasan&layout=compact&theme=default&hide_border=true)
 
 
 ---
